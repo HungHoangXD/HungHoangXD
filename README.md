@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @HungHoangXD
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Hoàng Văn Hưng
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 HungHoangXD/HungHoangXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
